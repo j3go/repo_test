@@ -1,1 +1,1 @@
-Commit con conflicto
+Commit diferente
